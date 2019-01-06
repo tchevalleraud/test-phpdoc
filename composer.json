@@ -9,5 +9,15 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "autoload":{
+        "psr-4": {
+            "TestPHPDoc\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">= 7.0"
+    },
+    "require-dev": {
+        "phpdocumentor/phpdocumentor": "^2.9"
+    }
 }
