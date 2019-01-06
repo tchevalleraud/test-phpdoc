@@ -1,0 +1,13 @@
+{
+    "name": "t.chevalleraud/test-phpdoc",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thibault CHEVALLERAUD",
+            "email": "tchevalleraud@interdata.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
